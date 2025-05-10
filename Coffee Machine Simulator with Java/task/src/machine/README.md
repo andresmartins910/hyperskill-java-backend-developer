@@ -1,2 +1,3 @@
 ## Progress Log
-2025-05-07 | 1h00 | Coffee Machine 1 & 2
+- 2025-05-07 | 1h00 | Coffee Machine 1 & 2
+- 2025-05-10 | 1h45 | Coffee Machine 3
