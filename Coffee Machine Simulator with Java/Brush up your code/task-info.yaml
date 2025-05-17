@@ -9,6 +9,13 @@ files:
   - name: src/machine/README.md
     visible: true
     learner_created: true
+  - name: src/machine/Recipe.java
+    visible: true
+    learner_created: true
 feedback_link: https://hyperskill.org/learn/step/5334#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">Hyperskill</a>
+    to continue learning.
+  time: "Sat, 17 May 2025 13:07:05 UTC"
 record: 6

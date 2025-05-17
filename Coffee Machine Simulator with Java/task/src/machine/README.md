@@ -10,5 +10,6 @@ First week: 4h15
 ### Second week
 - 2025-05-13 | 45min | Coffee Machine 5 
 - 2025-05-14 | 40min | Coffee Machine 5 + início 6
+- 2025-05-17 | 60min | Coffee Machine 6
 
-Second week: 1h25
+Second week: 2h25
